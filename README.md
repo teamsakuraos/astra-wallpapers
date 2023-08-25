@@ -1,6 +1,6 @@
 # Lingmo OS Wallpaper
 
-Lingmo OS's system wallpaper.
+The system of LingmoOS has built-in wallpaper by default, and the default wallpaper is changed once for each major version.
 
 ## License
 
