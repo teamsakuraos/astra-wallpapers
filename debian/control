@@ -1,15 +1,15 @@
-Source: ling-wallpapers
+Source: lingmo-wallpapers
 Section: devel
 Priority: optional
-Maintainer: Lingmo OS Team <cuteos@foxmail.com>
+Maintainer: Lingmo OS Team <lingmo@lingmo.org>
 Build-Depends: cmake,
                debhelper (>= 9),
                extra-cmake-modules
-Standards-Version: 1.0.6
-Homepage: https://lingmo.org/
+Standards-Version: 4.5.0
+Homepage: https://lingmo.org
 
-Package: ling-wallpapers
+Package: lingmo-wallpapers
 Architecture: any
 Depends: ${misc:Depends},
          ${shlibs:Depends}
-Description: Lingmo OS Wallpapers
+Description: Lingmo OS Default Wallpapers

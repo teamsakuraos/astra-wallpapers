@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(ling-wallpapers)
+project(unsplash-wallpapers)
 
 set(BACKGROUNDS
 	default.jpg
@@ -8,4 +8,4 @@ set(BACKGROUNDS
 	wallpaper-3.jpg
 )
 
-install(FILES ${BACKGROUNDS} DESTINATION /usr/share/backgrounds/cuteos)
+install(FILES ${BACKGROUNDS} DESTINATION /usr/share/backgrounds/lingmoos)

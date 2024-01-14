@@ -1,6 +1,6 @@
-# Lingmo OS Wallpaper
+# YoyoOS Wallpaper
 
-The system of LingmoOS has built-in wallpaper by default, and the default wallpaper is changed once for each major version.
+YoyoOS's system wallpaper.
 
 ## License
 

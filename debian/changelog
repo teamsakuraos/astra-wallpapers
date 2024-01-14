@@ -1,11 +1,5 @@
-ling-wallpapers (1.0.6) UNRELEASED; urgency=medium
+lingmo-wallpapers (1.9.9) UNRELEASED; urgency=low
 
-  * Update 1.0.6 <cuteos@foxmail>
+  * Initial release  <lingmo@lingmo.org>
 
- -- Lingmo OS <cuteos@foxmail.com> Fri, 25 Aug 2023 14:03:00 +0800
-
-cute-wallpapers (23.02.8) UNRELEASED; urgency=low
-
-  * Initial release (CuteOS)  <support@cuteos.com>
-
- -- CuteOS Packaging Team <2422586862@qq.com>  Thu, 16 Sep 2021 02:31:42 +0800
+ -- Lingmo OS Team <lingmo@lingmo.org>  Fri, 15 Dec 2023 22:36:35 +0800
