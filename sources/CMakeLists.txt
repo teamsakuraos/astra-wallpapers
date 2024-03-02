@@ -6,6 +6,7 @@ set(BACKGROUNDS
 	wallpaper-1.jpg
 	wallpaper-2.jpg
 	wallpaper-3.jpg
+	wallpaper-4.jpg
 )
 
 install(FILES ${BACKGROUNDS} DESTINATION /usr/share/backgrounds/lingmoos)
